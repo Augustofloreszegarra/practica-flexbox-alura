@@ -1,5 +1,9 @@
-.headerPrincipal-titulo .container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.headerPrincipal .container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.headerPrincipal-nav {
+	display: flex;
 }
